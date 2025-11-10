@@ -2,6 +2,9 @@
 PowerApps Des
 # 📄 PowerApps PCF - PDF Signature Viewer Control
 
+# 🎬 Demo
+📺 [Watch on YouTube](https://youtu.be/3lE_X1GEidA)
+
 ## 🧩 Overview
 **PDF Signature Viewer** is a custom PowerApps Component Framework (PCF) control that allows users to:
 - Upload and preview PDF files directly inside a Power Apps Canvas App.
